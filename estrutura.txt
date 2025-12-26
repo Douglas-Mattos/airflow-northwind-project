@@ -1,0 +1,6 @@
+airflow_project
+├── dags
+├── data
+│   ├── bronze
+│   ├── silver
+│   └── gold
