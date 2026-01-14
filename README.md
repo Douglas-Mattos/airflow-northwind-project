@@ -141,18 +141,4 @@ Próximos passos (Roadmap)
 * Construir dashboard (Power BI) a partir da camada Gold
 
 
----
-
-## ✅ O que você faz agora
-
-1. **Substitua todo o conteúdo do README.md** por esse texto  
-2. Salve o arquivo  
-3. Rode:
-
-```bash
-git add README.md
-git commit -m "Improve README with full project documentation"
-git push
-
-
 
